@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:id="@+id/content_main"
+    >
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:text="@string/speech_to_text"
+        android:onClick="speechToTextButton" />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:text="@string/text_to_speech"
+        android:onClick="textToSpeechButton" />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:text="@string/audio"
+        android:onClick="audioButton" />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:text="@string/video"
+        android:onClick="videoButton" />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:text="@string/animation"
+        android:onClick="animationButton" />
+
+</LinearLayout>

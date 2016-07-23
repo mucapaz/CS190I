@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoSuite</string>
+    <string name="speech_to_text">SPEECH TO TEXT</string>
+    <string name="text_to_speech">TEXT TO SPEECH</string>
+    <string name="audio">AUDIO</string>
+    <string name="video">VIDEO</string>
+    <string name="animation">ANIMATION</string>
+    <string name="edit_text_default">Hello Text to Speech Fragment!</string>
+    <string name="speak">SPEAK</string>
+    <string name="audio_button">PLAY AUDIO</string>
+</resources>
